@@ -1,0 +1,448 @@
+[23-Apr-2017 12:16:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:40:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:42:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:42:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:44:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:45:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:45:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:47:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:47:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:49:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 06:50:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hrmetlcom/public_html/app/Http/Controllers/TrackController.php on line 118
+[24-Apr-2017 10:08:23 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/hrmetlcom/public_html/app/Http/Controllers/InitController.php on line 27
+[24-Apr-2017 10:09:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/hrmetlcom/public_html/app/Http/Controllers/InitController.php on line 54
+[29-Apr-2017 05:54:30 UTC] PHP Fatal error:  Class 'App\Reference' not found in /home/hrmetlcom/public_html/app/Http/Controllers/EmployeeController.php on line 146
+[29-Apr-2017 05:55:24 UTC] PHP Fatal error:  Class 'App\Reference' not found in /home/hrmetlcom/public_html/app/Http/Controllers/EmployeeController.php on line 146
+[29-Apr-2017 05:57:53 UTC] PHP Fatal error:  Class 'App\Reference' not found in /home/hrmetlcom/public_html/app/Http/Controllers/EmployeeController.php on line 146
+[29-Apr-2017 11:25:02 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:26:14 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:30:21 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:30:43 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:31:43 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:32:06 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:35:08 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:37:02 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[29-Apr-2017 11:37:11 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 882
+[30-Apr-2017 10:19:30 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:19:47 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:20:24 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:21:58 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:22:37 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:23:47 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:23:51 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:24:13 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:25:06 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:31:33 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:40:46 UTC] PHP Fatal error:  Class 'Vinkla\Pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Apr-2017 10:42:40 UTC] PHP Fatal error:  Class 'vinkla\pusher\PusherServiceProvider' not found in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[02-May-2017 15:59:01 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 15:59:12 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 15:59:17 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 15:59:23 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:02:35 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:04:58 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:05:04 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:05:14 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:05:22 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:06:55 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:07:47 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:07:57 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:14:25 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:14:27 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:19:59 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:22:09 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:23:17 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:23:26 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:23:44 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:17 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:20 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:21 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:22 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:23 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:24 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:30 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:36 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:43 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:26:47 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:27:29 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:31:24 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:34:44 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:34:58 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:50:11 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 16:59:18 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:02:15 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:05:04 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:11:06 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:11:12 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:12:47 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:13:02 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:14:53 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:19:33 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:19:40 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:19:45 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:22:00 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:22:35 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:26:19 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:26:54 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:27:15 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 17:28:14 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class log does not exist' in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('Psr\\Log\\LoggerI...')
+#4 /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/hrmetlcom/public_html/vendor/laravel/ in /home/hrmetlcom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-May-2017 11:49:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 971
+[02-May-2017 11:49:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hrmetlcom/public_html/storage/framework/views/fbd54fadc12510a22b888caf8ef5b3c3 on line 971

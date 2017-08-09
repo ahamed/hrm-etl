@@ -1,0 +1,144 @@
+#player {
+    width: 400px;
+}
+
+.runs {
+    width: 400px;
+}
+
+.btn-circle {
+    border-radius: 50%;
+}
+
+.top-content{
+  margin-top: 60px;
+}
+
+.score {
+    height: 80px;
+    background: black;
+    color: white;
+    width: 100%;
+    margin-top: 45px;
+    clear: both;
+    margin-left: -115px;
+    z-index: 9999;
+    background: #971010;
+    color: #FDF6F6;
+}
+
+.row-body {
+    margin-top: 200px;
+}
+
+#myModal,
+#batsmanModal,
+#outModal {
+    z-index: 9999;
+}
+
+.row-content {
+    margin-top: 100px;
+}
+
+html,
+body {
+    background: url('/images/background.jpg');
+    background-size: 100% 100%;
+
+
+}
+#myContainer{
+    background: rgba(255,255,255,0.9);
+}
+
+.mynav{
+    background: #c21500;
+    color: white;
+}
+
+#myJumbo {
+    #background: #c21500;
+  
+    color: white;
+    background: #E74C3B;
+    width: 100%;
+    font-style: bolder;
+    height: 200px;
+    margin-top: 52px;
+    margin-bottom: 40px;
+    padding: 40px;
+    margin-left: 2px;
+    clear: both;
+}
+
+.fade-scale {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  opacity: 0;
+  -webkit-transition: all .25s linear;
+  transition: all .25s linear;
+}
+
+.fade-scale.in {
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.modal-backdrop {
+   background-color:  #c21500;
+
+   opacity: 1;
+
+}
+.modal{
+	margin-top: 80px;
+	border: none;
+	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+}
+.modal-body{
+	height: 300px;
+}
+.modal-header{
+	height: 80px;
+}
+h1.modal-title{
+	text-align: center;
+}
+.modal .modal-dialog .modal-content, .modal-dropdown{
+	background-color:  #E74C3C;
+	color: white;
+	border: none;
+}
+.btn-modal{
+	background: #D44637;
+	color: white;
+	font-style: bolder;
+	font-family: font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+.btn-modal:hover{
+	color: white;
+	background-color: #A5281B;
+}
+.modal-header{
+	background: #D44637;
+	border: none;
+}
+.model-footer,.modal-body{
+	border: none;
+}
+.close  span{
+	color: white;
+	font-size: 20px;
+}
+option:checked:hover{
+  background:  #A5281B; 
+  color: white;
+  #box-shadow: inset 20px 20px #00f;
+}
+.modal-dropdown{
+	background: #D44637;
+	border-radius: 30px;
+}
+
+

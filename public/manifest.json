@@ -1,0 +1,7 @@
+{
+  "name": "hrm_ezzetech",
+  "short_name": "hrm_etl",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795"
+}
